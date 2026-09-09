@@ -125,10 +125,10 @@ If you pick a project that you would want to do anyway then this is basically ti
 
 ### Grades
 
-* In-person presentation (participation) 20%
-* Each assignment counts as 5% (we will have 10 of them).
-* The project proposal is 15%.
-* The project is 35%.
+* 20% In-person presentation (participation). See above.
+* 40% Each assignment counts as 5%. We will have 8-10 of them.
+* 10% The project proposal.
+* 30% The project.
 
 * The project is a requirement. Without that you won't get a passing grade.
 
@@ -137,9 +137,13 @@ If you pick a project that you would want to do anyway then this is basically ti
 During the course I'll use some of the [slides that can be found here](https://python.code-maven.com/).
 These slides are publicly available and will remain on the web site after the course is over.
 
-### Videos in English
+### Videos
 
-There are [recording of this course from 3 years ago](https://code-maven.com/programming-bootcamp-for-scientists).
+Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to see the video recordings on the right hand side.
+
+### Other videos in English
+
+There are [recording of this course from 2021](https://code-maven.com/programming-bootcamp-for-scientists).
 
 There are also [recordings from the 2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12).
 
@@ -147,13 +151,13 @@ There are also [recordings from the 2024 spring semester](https://github.com/sza
 
 You can watch those, but be also warned, this semester the order of the material will be different.
 
-There are many more videos in my [English-language YouTube channel](https://code-maven.com/youtube).
+There are many more videos in my [English-language YouTube channel](https://www.youtube.com/@CodeMaven).
 You are invited to check them out and to follow the channel.
 
-### Videos in Hebrew
+### Other videos in Hebrew
 
 Some of the material is also available in Hebrew. You can find them [on my website](https://he.code-maven.com/)
-and in my [Hebrew-language YouTube channel](https://he.code-maven.com/youtube). You are invited to
+and in my [Hebrew-language YouTube channel](https://www.youtube.com/@code-maven-in-hebrew). You are invited to
 follow that channel as well.
 
 ### Language
@@ -171,10 +175,6 @@ You are expected to bring your own computer to the lectures.
 ### Installations
 
 There is no need to install anything up front. We'll do that during the lectures.
-
-### Videos
-
-Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to see the video recordings on the right hand side.
 
 ## [Reports and assignment](DAYS.md)
 
