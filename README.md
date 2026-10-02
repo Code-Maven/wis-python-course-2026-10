@@ -1,4 +1,4 @@
-# WIS Python programming course started in 2026.10
+# WIS Programming in Python using AI (course 20273231) started in 2026.10
 
 Course number: 20273231
 
