@@ -15,6 +15,7 @@ You will be added to this page once you submit the first assignment.
 | [Kseniya Bourgart](https://kseniabrt.github.io/)          | [repo](https://github.com/kseniabrt/kseniabrt.github.io)                     | [repo]() |  |  |
 | [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)                   | [repo]() |  |  |
 | [Maya Baranovitch Malka](https://mayamalka10.github.io/)                | [repo](https://github.com/MayaMalka10/MayaMalka10.github.io)                    | [repo]() |  |  |
+| [Meira Barenholtz](https://mbarenh1.github.io/)           | [repo](https://github.com/mbarenh1/mbarenh1.github.io)                     | [repo]() |  |  |
 | [Nimrod Dushnik Shamir](https://nimrodushnik.github.io/)  | [repo](https://github.com/nimrodushnik/nimrodushnik.github.io)                     | [repo]() |  |  |
 | [Noa Sofer Sali](https://noasofersali.github.io/)         | [repo](https://github.com/noasofersali/noasofersali.github.io)                     | [repo]() |  |  |
 | [Noga Gazit](nogag28.github.io)                           | [repo](https://github.com/nogag28/nogag28.github.io/)                     | [repo]() |  |  |
