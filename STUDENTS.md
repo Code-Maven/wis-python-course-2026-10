@@ -5,6 +5,7 @@ You will be added to this page once you submit the first assignment.
 | Home page | Repo | Assignments | Lab     | Project |
 | --------- | ---- | ----------- | ------- | ------- |
 | [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                     | [repo]() |  |  |
+| [Alon Pekerman](https://alonp1206.github.io/)             | [repo](https://github.com/alonp1206/alonp1206.github.io)                     | [repo]() |  |  |
 | [Amalia Bloch](https://amaliawb.github.io/)               | [repo](https://github.com/amaliawb/amaliawb.github.io)                     | [repo]() |  |  |
 | [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)                   | [repo]() |  |  |
 | [Daniel Gordon Levitan](https://gordonlevitan.github.io/) | [repo](https://github.com/gordonlevitan/gordonlevitan.github.io/)                     | [repo]() |  |  |
