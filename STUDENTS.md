@@ -23,6 +23,7 @@ You will be added to this page once you submit the first assignment.
 | [Ron Shaked](https://ron075.github.io/)                   | [repo](https://github.com/ron075/ron075.github.io)                     | [repo]() |  |  |
 | [Rotem Azulay](https://azrotem.github.io/)                | [repo](https://github.com/azrotem/azrotem.github.io)                     | [repo]() |  |  |
 | [Sapir Green](https://sapirg2079.github.io/)              | [repo](https://github.com/sapirg2079/sapirg2079.github.io/)                     | [repo]() |  |  |
+| [Sarah Borni](https://sarahbrnai.github.io/)              | [repo](https://github.com/sarahbrnai/sarahbrnai.github.io)                     | [repo]() |  |  |
 | [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)                     | [repo]() |  |  |
 | [Shiraz Nir Halber](https://shiraznh.github.io/)                | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                     | [repo]() |  |  |
 
