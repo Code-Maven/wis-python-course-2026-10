@@ -28,6 +28,7 @@ You will be added to this page once you submit the first assignment.
 | [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)                     | [repo]() |  |  |
 | [Shiraz Nir Halber](https://shiraznh.github.io/)                | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                     | [repo]() |  |  |
 | [Tamir Yerushalmi](https://tamiryer.github.io/)           | [repo](https://github.com/tamiryer/tamiryer.github.io)                     | [repo]() |  |  |
+| [Uri Daniely](https://uridaniely-code.github.io/)         | [repo](https://github.com/uridaniely-code/uridaniely-code.github.io)                     | [repo]() |  |  |
 
 
 <!--
