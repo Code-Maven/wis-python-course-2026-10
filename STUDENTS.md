@@ -5,6 +5,7 @@ You will be added to this page once you submit the first assignment.
 | Home page | Repo | Assignments | Lab     | Project |
 | --------- | ---- | ----------- | ------- | ------- |
 | [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                     | [repo]() |  |  |
+| [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)                   | [repo]() |  |  |
 | [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)                     | [repo]() |  |  |
 | [Keren Eden](https://kereneden.github.io/)                | [repo](https://github.com/KerenEden/KerenEden.github.io)                     | [repo]() |  |  |
 | [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)                   | [repo]() |  |  |
