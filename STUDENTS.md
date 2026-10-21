@@ -7,6 +7,7 @@ You will be added to this page once you submit the first assignment.
 | [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                     | [repo]() |  |  |
 | [Amalia Bloch](https://amaliawb.github.io/)               | [repo](https://github.com/amaliawb/amaliawb.github.io)                     | [repo]() |  |  |
 | [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)                   | [repo]() |  |  |
+| [Daniel Gordon Levitan](https://gordonlevitan.github.io/) | [repo](https://github.com/gordonlevitan/gordonlevitan.github.io/)                     | [repo]() |  |  |
 | [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)                     | [repo]() |  |  |
 | [Elad Cohen](https://eladbio.github.io/)                  | [repo](https://github.com/EladBio/EladBio.github.io)                     | [repo]() |  |  |
 | [Gili Kafri](https://gilithelegend.github.io/)            | [repo](https://github.com/gilithelegend/gilithelegend.github.io)                     | [repo]() |  |  |
