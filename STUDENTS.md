@@ -12,6 +12,7 @@ You will be added to this page once you submit the first assignment.
 | [Kseniya Bourgart](https://kseniabrt.github.io/)          | [repo](https://github.com/kseniabrt/kseniabrt.github.io)                     | [repo]() |  |  |
 | [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)                   | [repo]() |  |  |
 | [Maya Baranovitch Malka](https://mayamalka10.github.io/)                | [repo](https://github.com/MayaMalka10/MayaMalka10.github.io)                    | [repo]() |  |  |
+| [Rotem Azulay](https://azrotem.github.io/)                | [repo](https://github.com/azrotem/azrotem.github.io)                     | [repo]() |  |  |
 | [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)                     | [repo]() |  |  |
 | [Shiraz Nir Halber](https://shiraznh.github.io/)                | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                     | [repo]() |  |  |
 
