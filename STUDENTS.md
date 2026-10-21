@@ -9,6 +9,7 @@ You will be added to this page once you submit the first assignment.
 | [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)                   | [repo]() |  |  |
 | [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)                     | [repo]() |  |  |
 | [Elad Cohen](https://eladbio.github.io/)                  | [repo](https://github.com/EladBio/EladBio.github.io)                     | [repo]() |  |  |
+| [Gili Kafri](https://gilithelegend.github.io/)            | [repo](https://github.com/gilithelegend/gilithelegend.github.io)                     | [repo]() |  |  |
 | [Keren Eden](https://kereneden.github.io/)                | [repo](https://github.com/KerenEden/KerenEden.github.io)                     | [repo]() |  |  |
 | [Kseniya Bourgart](https://kseniabrt.github.io/)          | [repo](https://github.com/kseniabrt/kseniabrt.github.io)                     | [repo]() |  |  |
 | [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)                   | [repo]() |  |  |
