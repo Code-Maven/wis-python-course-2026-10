@@ -54,7 +54,45 @@ Dead-line: 2026.10.25 12:00
 
 ## Day 2
 
+* Install and setup [git](https://git-scm.com/) locally, configure git, make some (minor) changes to your web site locally and push them out. (sync)
+* Install [Visual Studio Code](https://code.visualstudio.com/)
+* [PyPI](https://pypi.org/) has  925,180 projects.
+* [BioPython](https://github.com/biopython/)
+* [BioPython changes by Gabor](https://github.com/search?q=repo%3Abiopython%2Fbiopython.github.io+author%3Aszabgab&type=issues)
+* Use some text editor to write Hello World.
+* Install and use VS Code to write Hello World
+
+
 ### Assignment (day 2)
+
+We still hardly touched coding so we still practice the tools we'll use the rest of the course (and the rest of your academic career).
+
+* We'll practice opening issues, commenting on them and closing them:
+    * Pick 2 students who already are on the list of students in our repository and who don't yet have 2 issues opened on their repository.
+    * Look at their web site and think about some comments. You can praise things and you can suggest improvements.
+    * Open issues on the repository of the two web sites with your comments.
+    * When you receive an issue, consider if you'd like to make those changes. Comment on the issue.
+    * The two of you can have a back-and-forth communication.
+    * If you make changes to your web site, refer to the issue number in the commit message.
+    * When you feel you have finished the requested changes (or if you decide not to do them), close the issue.
+
+* Install [Python](https://www.python.org/) (if you don't have it yet).
+* Using VS Code write a Python program that will print "Hello World" to the screen and make sure you can run it.
+* Create a new repository that will be used for your assignments.
+* Clone it to your own computer.
+* In the repository create a `README.md` with some description about the repository.
+* Create a folder called `day02` and put the file in there.
+* Also create a file called `day02/README.md` in which you explain what you did to accomplish the tasks.
+* Push out (sync) the file.
+
+
+* Open an issue on our repository with the title "Day 02 by Foo Bar" (using your name instead of Foo Bar)
+* In the issue link to your assignment repository and to the two issues you opened.
+
+
+* If you need help ask your fellow students and us in-person or via the WhatsApp group.
+
+Dead-line: 2026.11.01 12:00
 
 ## Day 3
 
