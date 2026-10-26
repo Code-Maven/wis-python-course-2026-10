@@ -85,6 +85,9 @@ We still hardly touched coding so we still practice the tools we'll use the rest
 * Also create a file called `day02/README.md` in which you explain what you did to accomplish the tasks.
 * Push out (sync) the file.
 
+* Also create a folder called `day01`, put a `README.md` in there and describe what you did (and your prompt to AI) for the first assignment.
+    If you included that in the issue you opened, you can copy it from there. (This will remain with you and will be easier for you to find later if you need to look back)
+
 
 * Open an issue on our repository with the title "Day 02 by Foo Bar" (using your name instead of Foo Bar)
 * In the issue link to your assignment repository and to the two issues you opened.
