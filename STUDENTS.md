@@ -7,7 +7,7 @@ You will be added to this page once you submit the first assignment.
 | [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                   | [repo]() |  |  |
 | [Alon Pekerman](https://alonp1206.github.io/)             | [repo](https://github.com/alonp1206/alonp1206.github.io)               | [repo]() |  |  |
 | [Amalia Bloch](https://amaliawb.github.io/)               | [repo](https://github.com/amaliawb/amaliawb.github.io)                 | [repo](https://github.com/amaliawb/Assignments/) |  |  |
-| [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)             | [repo]() |  |  |
+| [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)             | [repo](https://github.com/danigeller/python-coursework) |  |  |
 | [Daniel Gordon Levitan](https://gordonlevitan.github.io/) | [repo](https://github.com/gordonlevitan/gordonlevitan.github.io/)      | [repo]() |  |  |
 | [Delfina Papinutti](https://delfip.github.io/)            | [repo](https://github.com/delfip/delfip.github.io)                     | [repo]() |  |  |
 | [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)               | [repo]() |  |  |
