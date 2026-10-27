@@ -33,7 +33,7 @@ You will be added to this page once you submit the first assignment.
 | [Noga Carmon](https://nogaca.github.io/)                  | [repo](https://github.com/nogaca/nogaca.github.io)                     | [repo]() |  |  |
 | [Oshrit Geller](https://oshritgeller-bit.github.io/)      | [repo](https://github.com/oshritgeller-bit/oshritgeller-bit.github.io/)| [repo]() |  |  |
 | [Ron Shaked](https://ron075.github.io/)                   | [repo](https://github.com/ron075/ron075.github.io)                     | [repo]() |  |  |
-| [Rotem Azulay](https://azrotem.github.io/)                | [repo](https://github.com/azrotem/azrotem.github.io)                   | [repo]() |  |  |
+| [Rotem Azulay](https://azrotem.github.io/)                | [repo](https://github.com/azrotem/azrotem.github.io)                   | [repo](https://github.com/azrotem/python-course-assignments) |  |  |
 | [Sapir Green](https://sapirg2079.github.io/)              | [repo](https://github.com/sapirg2079/sapirg2079.github.io/)            | [repo]() |  |  |
 | [Sarah Borni](https://sarahbrnai.github.io/)              | [repo](https://github.com/sarahbrnai/sarahbrnai.github.io)             | [repo]() |  |  |
 | [Sari Radziner](https://sariradz.github.io/)              | [repo](https://github.com/sariradz/sariradz.github.io)                 | [repo]() |  |  |
