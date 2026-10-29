@@ -16,7 +16,7 @@ You will be added to this page once you submit the first assignment.
 | [Gili Kafri](https://gilithelegend.github.io/)            | [repo](https://github.com/gilithelegend/gilithelegend.github.io)       | [repo]() |  |  |
 | [Hari Oum](https://hari287200.github.io/)                 | [repo](https://github.com/Hari287200/Hari287200.github.io)             | [repo]() |  |  |
 | [Joseph Borenstein](https://alltheweizer.github.io/)      | [repo](https://github.com/AllTheWeizer/AllTheWeizer.github.io)         | [repo](https://github.com/AllTheWeizer/wis-python-assignments/) |  |  |
-| [Keren Eden](https://kereneden.github.io/)                | [repo](https://github.com/KerenEden/KerenEden.github.io)               | [repo]() |  |  |
+| [Keren Eden](https://kereneden.github.io/)                | [repo](https://github.com/KerenEden/KerenEden.github.io)               | [repo](https://github.com/KerenEden/Python-assignments_Keren) |  |  |
 | [Kseniya Bourgart](https://kseniabrt.github.io/)          | [repo](https://github.com/kseniabrt/kseniabrt.github.io)               | [repo]() |  |  |
 | [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)             | [repo](https://github.com/LilaKrigel/python-course-assignments) |  |  |
 | [Liora Meyer](https://lioramey.github.io/)                | [repo](https://github.com/lioramey/lioramey.github.io)                 | [repo]() |  |  |
