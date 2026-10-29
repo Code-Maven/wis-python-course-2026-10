@@ -25,7 +25,7 @@ You will be added to this page once you submit the first assignment.
 | [Michal Azimov](https://michal-azimov.github.io/)         | [repo](https://github.com/Michal-azimov/Michal-azimov.github.io/)      | [repo](https://github.com/Michal-azimov/wis-python-assignments) |  |  |
 | [Michal Khrizman](khrizmanmichal.github.io)               | [repo](https://github.com/khrizmanmichal/khrizmanmichal.github.io)     | [repo]() |  |  |
 | [Natasha Sukhanov](https://natash-su.github.io/)          | [repo](https://github.com/natash-su/natash-su.github.io/)              | [repo]() |  |  |
-| [Nila Theodor](https://nila-theo.github.io/)              | [repo](https://github.com/nila-theo/nila-theo.github.io/)              | [repo]() |  |  |
+| [Nila Theodor](https://nila-theo.github.io/)              | [repo](https://github.com/nila-theo/nila-theo.github.io/)              | [repo](https://github.com/Nila-Theo/assignments) |  |  |
 | [Nimrod Dushnik Shamir](https://nimrodushnik.github.io/)  | [repo](https://github.com/nimrodushnik/nimrodushnik.github.io)         | [repo](https://github.com/nimrodushnik/Assignments) |  |  |
 | [Noa Sofer Sali](https://noasofersali.github.io/)         | [repo](https://github.com/noasofersali/noasofersali.github.io)         | [repo]() |  |  |
 | [Noga Gazit](nogag28.github.io)                           | [repo](https://github.com/nogag28/nogag28.github.io/)                  | [repo]() |  |  |
