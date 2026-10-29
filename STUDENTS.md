@@ -12,7 +12,7 @@ You will be added to this page once you submit the first assignment.
 | [Delfina Papinutti](https://delfip.github.io/)            | [repo](https://github.com/delfip/delfip.github.io)                     | [repo](https://github.com/delfip/wis-python-course-assignments) |  |  |
 | [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)               | [repo]() |  |  |
 | [Elad Cohen](https://eladbio.github.io/)                  | [repo](https://github.com/EladBio/EladBio.github.io)                   | [repo]() |  |  |
-| [Elad Itzhaki](https://eladit6789.github.io/)             | [repo](https://github.com/eladit6789/eladit6789.github.io)             | [repo]() |  |  |
+| [Elad Itzhaki](https://eladit6789.github.io/)             | [repo](https://github.com/eladit6789/eladit6789.github.io)             | [repo](https://github.com/eladit6789/wis-python-course-assignments) |  |  |
 | [Gili Kafri](https://gilithelegend.github.io/)            | [repo](https://github.com/gilithelegend/gilithelegend.github.io)       | [repo]() |  |  |
 | [Hari Oum](https://hari287200.github.io/)                 | [repo](https://github.com/Hari287200/Hari287200.github.io)             | [repo]() |  |  |
 | [Joseph Borenstein](https://alltheweizer.github.io/)      | [repo](https://github.com/AllTheWeizer/AllTheWeizer.github.io)         | [repo](https://github.com/AllTheWeizer/wis-python-assignments/) |  |  |
