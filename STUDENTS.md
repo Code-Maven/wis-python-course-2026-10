@@ -38,6 +38,7 @@ You will be added to this page once you submit the first assignment.
 | [Sari Radziner](https://sariradz.github.io/)              | [repo](https://github.com/sariradz/sariradz.github.io)                 | [repo]() |  |  |
 | [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)             | [repo]() |  |  |
 | [Shai Kiriati](https://shaikiriati.github.io/)            | [repo](https://github.com/ShaiKiriati/shaikiriati.github.io)           | [repo](https://github.com/ShaiKiriati/2027Course_assignments) |  |  |
+| [Shani Harel](https://shaniten.github.io/)                | [repo](https://github.com/shaniten/shaniten.github.io)                 | [repo]() |  |  |
 | [Shiraz Nir Halber](https://shiraznh.github.io/)          | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                 | [repo](https://github.com/ShirazNH/Assignments) |  |  |
 | [Uri Daniely](https://uridaniely-code.github.io/)         | [repo](https://github.com/uridaniely-code/uridaniely-code.github.io)   | [repo]() |  |  |
 
