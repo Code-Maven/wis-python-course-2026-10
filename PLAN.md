@@ -13,3 +13,4 @@
 * Desktop
 * Web
 
+* Show this: https://github.com/Code-Maven/wis-python-course-2026-10/issues/57 and talk about using modules.
