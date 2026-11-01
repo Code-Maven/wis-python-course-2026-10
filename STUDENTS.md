@@ -4,7 +4,7 @@ You will be added to this page once you submit the first assignment.
 
 | Home page | Repo | Assignments | Lab     | Project |
 | --------- | ---- | ----------- | ------- | ------- |
-| [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                   | [repo]() |  |  |
+| [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                   | [repo](https://github.com/adiyeru/Adi-s_assignments_wis_python_course_2026) |  |  |
 | [Alon Pekerman](https://alonp1206.github.io/)             | [repo](https://github.com/alonp1206/alonp1206.github.io)               | [repo](https://github.com/alonp1206/wis-python-course-2026-10-alon-pekerman) |  |  |
 | [Amalia Bloch](https://amaliawb.github.io/)               | [repo](https://github.com/amaliawb/amaliawb.github.io)                 | [repo](https://github.com/amaliawb/Assignments/) |  |  |
 | [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)             | [repo](https://github.com/danigeller/python-coursework) |  |  |
