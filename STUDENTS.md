@@ -4,42 +4,42 @@ You will be added to this page once you submit the first assignment.
 
 | Home page | Repo | Assignments | Lab     | Project |
 | --------- | ---- | ----------- | ------- | ------- |
-| [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                   | [repo](https://github.com/adiyeru/Adi-s_assignments_wis_python_course_2026) |  |  |
+| [Adi Yerushalmi](https://adiyeru.github.io/)              | [repo](https://github.com/adiyeru/adiyeru.github.io)                   | [repo](https://github.com/adiyeru/Adi-s_assignments_wis_python_course_2026)  |  |  |
 | [Alon Pekerman](https://alonp1206.github.io/)             | [repo](https://github.com/alonp1206/alonp1206.github.io)               | [repo](https://github.com/alonp1206/wis-python-course-2026-10-alon-pekerman) |  |  |
-| [Amalia Bloch](https://amaliawb.github.io/)               | [repo](https://github.com/amaliawb/amaliawb.github.io)                 | [repo](https://github.com/amaliawb/Assignments/) |  |  |
-| [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)             | [repo](https://github.com/danigeller/python-coursework) |  |  |
-| [Daniel Gordon Levitan](https://gordonlevitan.github.io/) | [repo](https://github.com/gordonlevitan/gordonlevitan.github.io/)      | [repo](https://github.com/gordonlevitan/wis-python-course-assignments) |  |  |
-| [Delfina Papinutti](https://delfip.github.io/)            | [repo](https://github.com/delfip/delfip.github.io)                     | [repo](https://github.com/delfip/wis-python-course-assignments) |  |  |
-| [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)               | [repo](https://github.com/ehudelfer/Ehud_Maven_Assignments) |  |  |
+| [Amalia Bloch](https://amaliawb.github.io/)               | [repo](https://github.com/amaliawb/amaliawb.github.io)                 | [repo](https://github.com/amaliawb/Assignments/)                             |  |  |
+| [Daniel Geller Zhornist](https://danigeller.github.io/)   | [repo](https://github.com/danigeller/danigeller.github.io)             | [repo](https://github.com/danigeller/python-coursework)                      |  |  |
+| [Daniel Gordon Levitan](https://gordonlevitan.github.io/) | [repo](https://github.com/gordonlevitan/gordonlevitan.github.io/)      | [repo](https://github.com/gordonlevitan/wis-python-course-assignments)       |  |  |
+| [Delfina Papinutti](https://delfip.github.io/)            | [repo](https://github.com/delfip/delfip.github.io)                     | [repo](https://github.com/delfip/wis-python-course-assignments)              |  |  |
+| [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)               | [repo](https://github.com/ehudelfer/Ehud_Maven_Assignments)                  |  |  |
 | [Elad Cohen](https://eladbio.github.io/)                  | [repo](https://github.com/EladBio/EladBio.github.io)                   | [repo]() |  |  |
-| [Elad Itzhaki](https://eladit6789.github.io/)             | [repo](https://github.com/eladit6789/eladit6789.github.io)             | [repo](https://github.com/eladit6789/wis-python-course-assignments) |  |  |
+| [Elad Itzhaki](https://eladit6789.github.io/)             | [repo](https://github.com/eladit6789/eladit6789.github.io)             | [repo](https://github.com/eladit6789/wis-python-course-assignments)          |  |  |
 | [Gili Kafri](https://gilithelegend.github.io/)            | [repo](https://github.com/gilithelegend/gilithelegend.github.io)       | [repo]() |  |  |
 | [Hari Oum](https://hari287200.github.io/)                 | [repo](https://github.com/Hari287200/Hari287200.github.io)             | [repo]() |  |  |
-| [Joseph Borenstein](https://alltheweizer.github.io/)      | [repo](https://github.com/AllTheWeizer/AllTheWeizer.github.io)         | [repo](https://github.com/AllTheWeizer/wis-python-assignments/) |  |  |
-| [Keren Eden](https://kereneden.github.io/)                | [repo](https://github.com/KerenEden/KerenEden.github.io)               | [repo](https://github.com/KerenEden/Python-assignments_Keren) |  |  |
+| [Joseph Borenstein](https://alltheweizer.github.io/)      | [repo](https://github.com/AllTheWeizer/AllTheWeizer.github.io)         | [repo](https://github.com/AllTheWeizer/wis-python-assignments/)              |  |  |
+| [Keren Eden](https://kereneden.github.io/)                | [repo](https://github.com/KerenEden/KerenEden.github.io)               | [repo](https://github.com/KerenEden/Python-assignments_Keren)                |  |  |
 | [Kseniya Bourgart](https://kseniabrt.github.io/)          | [repo](https://github.com/kseniabrt/kseniabrt.github.io)               | [repo]() |  |  |
-| [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)             | [repo](https://github.com/LilaKrigel/python-course-assignments) |  |  |
+| [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)             | [repo](https://github.com/LilaKrigel/python-course-assignments)              |  |  |
 | [Liora Meyer](https://lioramey.github.io/)                | [repo](https://github.com/lioramey/lioramey.github.io)                 | [repo]() |  |  |
-| [Maya Baranovitch Malka](https://mayamalka10.github.io/)  | [repo](https://github.com/MayaMalka10/MayaMalka10.github.io)           | [repo](https://github.com/MayaMalka10/Assignments) |  |  |
+| [Maya Baranovitch Malka](https://mayamalka10.github.io/)  | [repo](https://github.com/MayaMalka10/MayaMalka10.github.io)           | [repo](https://github.com/MayaMalka10/Assignments)                           |  |  |
 | [Meira Barenholtz](https://mbarenh1.github.io/)           | [repo](https://github.com/mbarenh1/mbarenh1.github.io)                 | [repo]() |  |  |
-| [Michal Azimov](https://michal-azimov.github.io/)         | [repo](https://github.com/Michal-azimov/Michal-azimov.github.io/)      | [repo](https://github.com/Michal-azimov/wis-python-assignments) |  |  |
+| [Michal Azimov](https://michal-azimov.github.io/)         | [repo](https://github.com/Michal-azimov/Michal-azimov.github.io/)      | [repo](https://github.com/Michal-azimov/wis-python-assignments)              |  |  |
 | [Michal Khrizman](khrizmanmichal.github.io)               | [repo](https://github.com/khrizmanmichal/khrizmanmichal.github.io)     | [repo]() |  |  |
 | [Natasha Sukhanov](https://natash-su.github.io/)          | [repo](https://github.com/natash-su/natash-su.github.io/)              | [repo]() |  |  |
-| [Nila Theodor](https://nila-theo.github.io/)              | [repo](https://github.com/nila-theo/nila-theo.github.io/)              | [repo](https://github.com/Nila-Theo/assignments) |  |  |
-| [Nimrod Dushnik Shamir](https://nimrodushnik.github.io/)  | [repo](https://github.com/nimrodushnik/nimrodushnik.github.io)         | [repo](https://github.com/nimrodushnik/Assignments) |  |  |
+| [Nila Theodor](https://nila-theo.github.io/)              | [repo](https://github.com/nila-theo/nila-theo.github.io/)              | [repo](https://github.com/Nila-Theo/assignments)                             |  |  |
+| [Nimrod Dushnik Shamir](https://nimrodushnik.github.io/)  | [repo](https://github.com/nimrodushnik/nimrodushnik.github.io)         | [repo](https://github.com/nimrodushnik/Assignments)                          |  |  |
 | [Noa Sofer Sali](https://noasofersali.github.io/)         | [repo](https://github.com/noasofersali/noasofersali.github.io)         | [repo]() |  |  |
 | [Noga Gazit](nogag28.github.io)                           | [repo](https://github.com/nogag28/nogag28.github.io/)                  | [repo]() |  |  |
-| [Noga Carmon](https://nogaca.github.io/)                  | [repo](https://github.com/nogaca/nogaca.github.io)                     | [repo](https://github.com/nogaca/course_assignments) |  |  |
+| [Noga Carmon](https://nogaca.github.io/)                  | [repo](https://github.com/nogaca/nogaca.github.io)                     | [repo](https://github.com/nogaca/course_assignments)                         |  |  |
 | [Oshrit Geller](https://oshritgeller-bit.github.io/)      | [repo](https://github.com/oshritgeller-bit/oshritgeller-bit.github.io/)| [repo]() |  |  |
 | [Ron Shaked](https://ron075.github.io/)                   | [repo](https://github.com/ron075/ron075.github.io)                     | [repo]() |  |  |
-| [Rotem Azulay](https://azrotem.github.io/)                | [repo](https://github.com/azrotem/azrotem.github.io)                   | [repo](https://github.com/azrotem/python-course-assignments) |  |  |
-| [Sapir Green](https://sapirg2079.github.io/)              | [repo](https://github.com/sapirg2079/sapirg2079.github.io/)            | [repo](https://github.com/sapirg2079/assigment2) |  |  |
+| [Rotem Azulay](https://azrotem.github.io/)                | [repo](https://github.com/azrotem/azrotem.github.io)                   | [repo](https://github.com/azrotem/python-course-assignments)                 |  |  |
+| [Sapir Green](https://sapirg2079.github.io/)              | [repo](https://github.com/sapirg2079/sapirg2079.github.io/)            | [repo](https://github.com/sapirg2079/assigment2)                             |  |  |
 | [Sarah Borni](https://sarahbrnai.github.io/)              | [repo](https://github.com/sarahbrnai/sarahbrnai.github.io)             | [repo]() |  |  |
 | [Sari Radziner](https://sariradz.github.io/)              | [repo](https://github.com/sariradz/sariradz.github.io)                 | [repo]() |  |  |
-| [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)             | [repo](https://github.com/shalu13lyu/homework_sl) |  |  |
-| [Shai Kiriati](https://shaikiriati.github.io/)            | [repo](https://github.com/ShaiKiriati/shaikiriati.github.io)           | [repo](https://github.com/ShaiKiriati/2027Course_assignments) |  |  |
-| [Shani Harel](https://shaniten.github.io/)                | [repo](https://github.com/shaniten/shaniten.github.io)                 | [repo](https://github.com/shaniten/course-assignments02) |  |  |
-| [Shiraz Nir Halber](https://shiraznh.github.io/)          | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                 | [repo](https://github.com/ShirazNH/Assignments) |  |  |
+| [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)             | [repo](https://github.com/shalu13lyu/homework_sl)                            |  |  |
+| [Shai Kiriati](https://shaikiriati.github.io/)            | [repo](https://github.com/ShaiKiriati/shaikiriati.github.io)           | [repo](https://github.com/ShaiKiriati/2027Course_assignments)                |  |  |
+| [Shani Harel](https://shaniten.github.io/)                | [repo](https://github.com/shaniten/shaniten.github.io)                 | [repo](https://github.com/shaniten/course-assignments02)                     |  |  |
+| [Shiraz Nir Halber](https://shiraznh.github.io/)          | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                 | [repo](https://github.com/ShirazNH/Assignments)                              |  |  |
 | [Uri Daniely](https://uridaniely-code.github.io/)         | [repo](https://github.com/uridaniely-code/uridaniely-code.github.io)   | [repo]() |  |  |
 
 
