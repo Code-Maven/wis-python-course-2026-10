@@ -23,7 +23,7 @@ You will be added to this page once you submit the first assignment.
 | [Maya Baranovitch Malka](https://mayamalka10.github.io/)  | [repo](https://github.com/MayaMalka10/MayaMalka10.github.io)           | [repo](https://github.com/MayaMalka10/Assignments)                           |  |  |
 | [Meira Barenholtz](https://mbarenh1.github.io/)           | [repo](https://github.com/mbarenh1/mbarenh1.github.io)                 | [repo]() |  |  |
 | [Michal Azimov](https://michal-azimov.github.io/)         | [repo](https://github.com/Michal-azimov/Michal-azimov.github.io/)      | [repo](https://github.com/Michal-azimov/wis-python-assignments)              |  |  |
-| [Michal Khrizman](khrizmanmichal.github.io)               | [repo](https://github.com/khrizmanmichal/khrizmanmichal.github.io)     | [repo]() |  |  |
+| [Michal Khrizman](khrizmanmichal.github.io)               | [repo](https://github.com/khrizmanmichal/khrizmanmichal.github.io)     | [repo](https://github.com/khrizmanmichal/Assignments)                        |  |  |
 | [Natasha Sukhanov](https://natash-su.github.io/)          | [repo](https://github.com/natash-su/natash-su.github.io/)              | [repo]() |  |  |
 | [Nila Theodor](https://nila-theo.github.io/)              | [repo](https://github.com/nila-theo/nila-theo.github.io/)              | [repo](https://github.com/Nila-Theo/assignments)                             |  |  |
 | [Nimrod Dushnik Shamir](https://nimrodushnik.github.io/)  | [repo](https://github.com/nimrodushnik/nimrodushnik.github.io)         | [repo](https://github.com/nimrodushnik/Assignments)                          |  |  |
