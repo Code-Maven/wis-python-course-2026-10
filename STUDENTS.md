@@ -36,7 +36,7 @@ You will be added to this page once you submit the first assignment.
 | [Sapir Green](https://sapirg2079.github.io/)              | [repo](https://github.com/sapirg2079/sapirg2079.github.io/)            | [repo](https://github.com/sapirg2079/assigment2) |  |  |
 | [Sarah Borni](https://sarahbrnai.github.io/)              | [repo](https://github.com/sarahbrnai/sarahbrnai.github.io)             | [repo]() |  |  |
 | [Sari Radziner](https://sariradz.github.io/)              | [repo](https://github.com/sariradz/sariradz.github.io)                 | [repo]() |  |  |
-| [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)             | [repo]() |  |  |
+| [Shahar Lyubinsky](https://shalu13lyu.github.io/)         | [repo](https://github.com/shalu13lyu/shalu13lyu.github.io)             | [repo](https://github.com/shalu13lyu/homework_sl) |  |  |
 | [Shai Kiriati](https://shaikiriati.github.io/)            | [repo](https://github.com/ShaiKiriati/shaikiriati.github.io)           | [repo](https://github.com/ShaiKiriati/2027Course_assignments) |  |  |
 | [Shani Harel](https://shaniten.github.io/)                | [repo](https://github.com/shaniten/shaniten.github.io)                 | [repo](https://github.com/shaniten/course-assignments02) |  |  |
 | [Shiraz Nir Halber](https://shiraznh.github.io/)          | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                 | [repo](https://github.com/ShirazNH/Assignments) |  |  |
