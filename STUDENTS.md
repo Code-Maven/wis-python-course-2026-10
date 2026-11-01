@@ -19,7 +19,7 @@ You will be added to this page once you submit the first assignment.
 | [Keren Eden](https://kereneden.github.io/)                | [repo](https://github.com/KerenEden/KerenEden.github.io)               | [repo](https://github.com/KerenEden/Python-assignments_Keren)                |  |  |
 | [Kseniya Bourgart](https://kseniabrt.github.io/)          | [repo](https://github.com/kseniabrt/kseniabrt.github.io)               | [repo](https://github.com/kseniabrt/2026_programming_in_python_using_AI_course_assignments) |  |  |
 | [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)             | [repo](https://github.com/LilaKrigel/python-course-assignments)              |  |  |
-| [Liora Meyer](https://lioramey.github.io/)                | [repo](https://github.com/lioramey/lioramey.github.io)                 | [repo]() |  |  |
+| [Liora Meyer](https://lioramey.github.io/)                | [repo](https://github.com/lioramey/lioramey.github.io)                 | [repo](https://github.com/Lioramey/Python-Class-Assignments)                 |  |  |
 | [Maya Baranovitch Malka](https://mayamalka10.github.io/)  | [repo](https://github.com/MayaMalka10/MayaMalka10.github.io)           | [repo](https://github.com/MayaMalka10/Assignments)                           |  |  |
 | [Meira Barenholtz](https://mbarenh1.github.io/)           | [repo](https://github.com/mbarenh1/mbarenh1.github.io)                 | [repo]() |  |  |
 | [Michal Azimov](https://michal-azimov.github.io/)         | [repo](https://github.com/Michal-azimov/Michal-azimov.github.io/)      | [repo](https://github.com/Michal-azimov/wis-python-assignments)              |  |  |
