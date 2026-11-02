@@ -21,7 +21,7 @@ You will be added to this page once you submit the first assignment.
 | [Liliya Krigel](https://lilakrigel.github.io/)            | [repo](https://github.com/LilaKrigel/LilaKrigel.github.io)             | [repo](https://github.com/LilaKrigel/python-course-assignments)              |  |  |
 | [Liora Meyer](https://lioramey.github.io/)                | [repo](https://github.com/lioramey/lioramey.github.io)                 | [repo](https://github.com/Lioramey/Python-Class-Assignments)                 |  |  |
 | [Maya Baranovitch Malka](https://mayamalka10.github.io/)  | [repo](https://github.com/MayaMalka10/MayaMalka10.github.io)           | [repo](https://github.com/MayaMalka10/Assignments)                           |  |  |
-| [Meira Barenholtz](https://mbarenh1.github.io/)           | [repo](https://github.com/mbarenh1/mbarenh1.github.io)                 | [repo]() |  |  |
+| [Meira Barenholtz](https://mbarenh1.github.io/)           | [repo](https://github.com/mbarenh1/mbarenh1.github.io)                 | [repo](https://github.com/mbarenh1/assignments/)                             |  |  |
 | [Michal Azimov](https://michal-azimov.github.io/)         | [repo](https://github.com/Michal-azimov/Michal-azimov.github.io/)      | [repo](https://github.com/Michal-azimov/wis-python-assignments)              |  |  |
 | [Michal Khrizman](khrizmanmichal.github.io)               | [repo](https://github.com/khrizmanmichal/khrizmanmichal.github.io)     | [repo](https://github.com/khrizmanmichal/Assignments)                        |  |  |
 | [Natasha Sukhanov](https://natash-su.github.io/)          | [repo](https://github.com/natash-su/natash-su.github.io/)              | [repo](https://github.com/Natash-Su/python-course-assignments)               |  |  |
