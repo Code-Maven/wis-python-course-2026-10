@@ -115,6 +115,7 @@ Dead-line: 2026.11.01 12:00
 * Search for some science (biology, chemistry, physics, etc.) related computation. Write a program that has a function that can do this computation.
 * Find (or generate) some data that can be used for this computation. Store the data in a file or files.
 * Alternatively you can come up with any other application that you are interested in and implement that. The way Shai implemented the game.
+* In either case, use the AI in VS Code and the git plugin in VS Code.
 * Put this into the `day03` of your assignment repo. Add a README.md describing what you did and the promts you wrote. Open an issue on our repo.
 
 Dead-line: 2026.11.08 12:00
