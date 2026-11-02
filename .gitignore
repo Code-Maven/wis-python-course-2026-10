@@ -1,2 +1,3 @@
 *.swp
 bmi.csv
+__pycache__
