@@ -3,11 +3,8 @@
 * Install Python
 
 
-* Write some code that will take the names from the md file.
-  Randomly call several people to explain what and how did they do.
-
-* Hello World
 * BMI stand-alone code
+* Hello World
 * Function
 * Command line separation
 * Desktop
@@ -15,3 +12,7 @@
 
 * Show this: https://github.com/Code-Maven/wis-python-course-2026-10/issues/57 and talk about using modules.
 * gitignore: https://github.com/ron075/course_assignments
+
+
+STUDENTS:
+* demo your project(s) you work.
