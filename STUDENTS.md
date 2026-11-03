@@ -11,7 +11,7 @@ You will be added to this page once you submit the first assignment.
 | [Daniel Gordon Levitan](https://gordonlevitan.github.io/) | [repo](https://github.com/gordonlevitan/gordonlevitan.github.io/)      | [repo](https://github.com/gordonlevitan/wis-python-course-assignments)       |  |  |
 | [Delfina Papinutti](https://delfip.github.io/)            | [repo](https://github.com/delfip/delfip.github.io)                     | [repo](https://github.com/delfip/wis-python-course-assignments)              |  |  |
 | [Ehud Elfer](https://ehudelfer.github.io/)                | [repo](https://github.com/ehudelfer/ehudelfer.github.io)               | [repo](https://github.com/ehudelfer/Ehud_Maven_Assignments)                  |  |  |
-| [Elad Cohen](https://eladbio.github.io/)                  | [repo](https://github.com/EladBio/EladBio.github.io)                   | [repo]() |  |  |
+| [Elad Cohen](https://eladbio.github.io/)                  | [repo](https://github.com/EladBio/EladBio.github.io)                   | [repo](https://github.com/EladBio/course-assignments)                        |  |  |
 | [Elad Itzhaki](https://eladit6789.github.io/)             | [repo](https://github.com/eladit6789/eladit6789.github.io)             | [repo](https://github.com/eladit6789/wis-python-course-assignments)          |  |  |
 | [Gili Kafri](https://gilithelegend.github.io/)            | [repo](https://github.com/gilithelegend/gilithelegend.github.io)       | [repo](https://github.com/Gilithelegend/python-course-assignments_Fall2026)  |  |  |
 | [Hari Oum](https://hari287200.github.io/)                 | [repo](https://github.com/Hari287200/Hari287200.github.io)             | [repo]() |  |  |
