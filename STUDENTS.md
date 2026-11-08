@@ -41,6 +41,7 @@ You will be added to this page once you submit the first assignment.
 | [Shani Harel](https://shaniten.github.io/)                | [repo](https://github.com/shaniten/shaniten.github.io)                 | [repo](https://github.com/shaniten/course-assignments02)                     |  |  |
 | [Shir Zivav](https://shirzivav.github.io/)                | [repo](https://github.com/shirzivav/shirzivav.github.io)               | [repo](https://github.com/ShirZivav/python-course-assignments)               |  |  |
 | [Shiraz Nir Halber](https://shiraznh.github.io/)          | [repo](https://github.com/ShirazNH/ShirazNH.github.io)                 | [repo](https://github.com/ShirazNH/Assignments)                              |  |  |
+| [Tali Lerner](https://taliweizmann.github.io/)            | [repo](https://github.com/taliweizmann/taliweizmann.github.io)         | [repo](https://github.com/taliweizmann/python-course-assignments/)           |  |  |
 | [Uri Daniely](https://uridaniely-code.github.io/)         | [repo](https://github.com/uridaniely-code/uridaniely-code.github.io)   | [repo]() |  |  |
 
 
