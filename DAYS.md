@@ -122,7 +122,48 @@ Dead-line: 2026.11.08 12:00
 
 ## Day 4
 
+* Sarah Borni - OK
+* Shani Harel - not here
+* Ehud Elfer -OL
+    * GitHub pages in the `docs` folder of the assignments repository
+    * JavaScript
+    * HTML
+    * CSS
+    * API key
+* Shahar Lyubinsky - OK
+    * Web application using Flask
+    * `pip install flask`
+    * `python bmi_web.py`
+    * http://localhost:5000/  or http://127.0.0.1:5000
+    * `FLASK_APP=bmi_web.py flask run --host 0.0.0.0`
+    * Then it can be accessed from other computers "on the same network"
+    * Press `Ctrl-C` to stop it.
+
+* Reading some source code.
+* Using Co-pilot on GitHub to ask questions about the code.
+* [NCBI](https://www.ncbi.nlm.nih.gov/), API
+* Captcha - is there a point to them?
+* Server rental (e.g. [Linode](https://www.linode.com/))
+
+* `.gitignore` the `__pycache__` folder.
+
+* Creating a web application using Flask based on the program from last week.
+
+
 ### Assignment (day 4)
+
+* Take the previous assignment, or a previous project you implemented.
+* Copy it to the `day04` folder just so we will have the old one intact.
+* Write a web application (e.g. using Flask) that will use the "business logic" from the previous implementation and provide a web interface to it.
+* Check that both the old and the new systems work.
+
+* Way beyond the requirements:
+    * If you'd like to experiment with deployment to a "real" server you can use [Linode](https://www.linode.com/) or [Digital Ocean](https://www.digitalocean.com/) and there are many other services. I think they all give you some "credit" so you can use them for free or for a few cents. (The smallest servers cost around 5 USD / month.)
+    * If you have a hitechist friend they would probably suggest you use AWS or GCP or Azure. They are all excellent, but they are also more complex.
+    * If you reach the point that you want to have your on domain name (e.g. like I have [szabgab.com](https://szabgab.com/) or [code-maven.com](https://code-maven.com/) then you need to "rent them". I use [iwantmyname.com/](https://iwantmyname.com/en/) for the `.com` addresses and [box.co.il](https://www.box.co.il/) for the `.il` addresses. These cost some 20-200 USD / year.
+
+
+Dead-line: 2026.11.15 12:00
 
 ## Day 5
 
