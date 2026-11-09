@@ -159,6 +159,7 @@ Dead-line: 2026.11.08 12:00
 
 * Way beyond the requirements:
     * If you'd like to experiment with deployment to a "real" server you can use [Linode](https://www.linode.com/) or [Digital Ocean](https://www.digitalocean.com/) and there are many other services. I think they all give you some "credit" so you can use them for free or for a few cents. (The smallest servers cost around 5 USD / month.)
+    * You can try to learn it from [this video](https://python.code-maven.com/getting-started-with-linux-on-linode)
     * If you have a hitechist friend they would probably suggest you use AWS or GCP or Azure. They are all excellent, but they are also more complex.
     * If you reach the point that you want to have your on domain name (e.g. like I have [szabgab.com](https://szabgab.com/) or [code-maven.com](https://code-maven.com/) then you need to "rent them". I use [iwantmyname.com/](https://iwantmyname.com/en/) for the `.com` addresses and [box.co.il](https://www.box.co.il/) for the `.il` addresses. These cost some 20-200 USD / year.
 
