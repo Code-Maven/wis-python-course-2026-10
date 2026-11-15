@@ -48,6 +48,14 @@ Each such presentation is 10% of the grade.
 You will have 3 chances to give the presenation.
 If you are not in the class it will be seen as 0 for that part of the grade.
 
+### Guidelines for the presentations
+
+* Instead of the assignment you can also talk about a personal project you wrote.
+* Before you share your screen make sure there is nothing private on the screen and no application will show a popup (e.g. that your received a new message)
+* Explain and show(!) how you wrote it (e.g. your interaction with AI, VS Code, git, GitHub, etc.)
+* Explain how the code works (no need to do a line by line explanation, but you should understand and be able to show the main section of your code. e.g. how you get the data, how you process it, which part is the UI (User Interface) etc.)
+* Also explain the choices you had to make and why did you choose the way you did.
+
 
 ### Assignments
 
