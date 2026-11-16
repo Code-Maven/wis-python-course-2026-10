@@ -168,7 +168,23 @@ Dead-line: 2026.11.15 12:00
 
 ## Day 5
 
+* Shahar Lyubinsky - was already
+* Michal Khrizman  - just arrived can't access the web site
+* Alon Pekerman - does not know how to start the program and the VS code makes problems
+* Uri Daniely - was already
+* Gili Kafri - not here
+* Elad Itzhaki - could not start python
+* Shir Zivav - presented
+
+* Test files created in the `day04` folder
+* [Kaggle datasets](https://www.kaggle.com/)
+
 ### Assignment (day 5)
+
+* Write some tests for the "business logic" of your previous applications. You can put them in your `day04`.
+* If you decide to build a new application with tests then put that in the `day05` folder.
+
+Dead-line: 2026.11.22 12:00
 
 ## Day 6
 

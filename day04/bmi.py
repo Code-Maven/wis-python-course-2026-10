@@ -5,6 +5,8 @@ from pathlib import Path
 def calculate_bmi(height_cm: float, weight_kg: float) -> float:
     """Calculate BMI given height in centimeters and weight in kilograms."""
     height_m = height_cm / 100.0
+    #if height_cm == 180:
+    #    return 42
     return round(weight_kg / (height_m ** 2), 2)
 
 
