@@ -188,6 +188,13 @@ Dead-line: 2026.11.22 12:00
 
 ## Day 6
 
+* Using Antigravity to build a project.
+
+* Daniel Geller
+* Keren Eden
+* Rotem Azulay
+* Tali Lerner
+
 ### Assignment (day 6)
 
 ## Day 7
