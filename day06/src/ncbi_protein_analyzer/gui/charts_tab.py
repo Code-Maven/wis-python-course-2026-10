@@ -66,7 +66,8 @@ class ChartsTab(ttk.Frame):
             ctrl,
             textvariable=self._aa_target_var,
             state="readonly",
-            width=22,
+            width=20,
+            font="TkTextFont",
             values=["Dataset Average"],
         )
         self._aa_combo.pack(side="left", padx=(4, 12))

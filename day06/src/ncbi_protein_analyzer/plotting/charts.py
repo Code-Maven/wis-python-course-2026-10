@@ -41,12 +41,12 @@ _AA_GROUPS: dict[str, tuple[str, str]] = {
 
 def create_length_histogram(stats: Sequence[ProteinStats]) -> Figure:
     """Create a histogram of protein sequence lengths with mean and median markers."""
-    fig = Figure(figsize=(7.5, 4.5), dpi=100)
+    fig = Figure(figsize=(9.5, 5.6), dpi=110)
     ax = fig.add_subplot(111)
 
     lengths = [s.length for s in stats]
     if not lengths:
-        ax.text(0.5, 0.5, "No sequence data to plot", ha="center", va="center", fontsize=12)
+        ax.text(0.5, 0.5, "No sequence data to plot", ha="center", va="center", fontsize=14)
         ax.set_axis_off()
         return fig
 
@@ -55,14 +55,15 @@ def create_length_histogram(stats: Sequence[ProteinStats]) -> Figure:
 
     mean_len = mean(lengths)
     median_len = median(lengths)
-    ax.axvline(mean_len, color="#dc2626", linestyle="--", linewidth=1.6, label=f"Mean ({mean_len:.1f} aa)")
-    ax.axvline(median_len, color="#059669", linestyle=":", linewidth=1.8, label=f"Median ({median_len:.1f} aa)")
+    ax.axvline(mean_len, color="#dc2626", linestyle="--", linewidth=1.8, label=f"Mean ({mean_len:.1f} aa)")
+    ax.axvline(median_len, color="#059669", linestyle=":", linewidth=2.0, label=f"Median ({median_len:.1f} aa)")
 
-    ax.set_title(f"Protein Length Distribution (n = {len(lengths)})", fontsize=12, fontweight="bold")
-    ax.set_xlabel("Sequence Length (amino acids)")
-    ax.set_ylabel("Number of Proteins")
+    ax.set_title(f"Protein Length Distribution (n = {len(lengths)})", fontsize=17, fontweight="bold")
+    ax.set_xlabel("Sequence Length (amino acids)", fontsize=14)
+    ax.set_ylabel("Number of Proteins", fontsize=14)
+    ax.tick_params(labelsize=13)
     ax.grid(axis="y", linestyle="--", alpha=0.35)
-    ax.legend(frameon=True)
+    ax.legend(frameon=True, fontsize=13)
     fig.tight_layout()
     return fig
 
@@ -73,11 +74,11 @@ def create_aa_composition_chart(
     title: str = "Amino Acid Composition (Dataset Average)",
 ) -> Figure:
     """Create a bar chart of the 20 standard amino acids colored by chemical group."""
-    fig = Figure(figsize=(8.0, 4.5), dpi=100)
+    fig = Figure(figsize=(10.0, 5.6), dpi=110)
     ax = fig.add_subplot(111)
 
     if not aa_composition or all(v == 0.0 for v in aa_composition.values()):
-        ax.text(0.5, 0.5, "No amino acid composition data", ha="center", va="center", fontsize=12)
+        ax.text(0.5, 0.5, "No amino acid composition data", ha="center", va="center", fontsize=14)
         ax.set_axis_off()
         return fig
 
@@ -94,13 +95,14 @@ def create_aa_composition_chart(
                 f"{val:.1f}",
                 ha="center",
                 va="bottom",
-                fontsize=7.5,
+                fontsize=11,
             )
 
-    ax.set_title(title, fontsize=12, fontweight="bold")
-    ax.set_xlabel("Amino Acid")
-    ax.set_ylabel("Percentage (%)")
-    ax.set_ylim(0, max(values) * 1.18 + 0.5)
+    ax.set_title(title, fontsize=17, fontweight="bold")
+    ax.set_xlabel("Amino Acid", fontsize=14)
+    ax.set_ylabel("Percentage (%)", fontsize=14)
+    ax.tick_params(labelsize=13)
+    ax.set_ylim(0, max(values) * 1.24 + 0.8)
     ax.grid(axis="y", linestyle="--", alpha=0.35)
 
     legend_handles = [
@@ -110,14 +112,14 @@ def create_aa_composition_chart(
         Patch(facecolor="#ef4444", label="Negative"),
         Patch(facecolor="#8b5cf6", label="Special"),
     ]
-    ax.legend(handles=legend_handles, ncol=5, loc="upper right", fontsize=8, frameon=True)
+    ax.legend(handles=legend_handles, ncol=5, loc="upper right", fontsize=11.5, frameon=True)
     fig.tight_layout()
     return fig
 
 
 def create_identity_heatmap(comparison: ComparisonResult) -> Figure:
     """Create a pairwise sequence identity heatmap (0-100%)."""
-    fig = Figure(figsize=(7.2, 5.8), dpi=100)
+    fig = Figure(figsize=(9.2, 6.8), dpi=110)
     ax = fig.add_subplot(111)
 
     matrix = comparison.identity_matrix
@@ -131,17 +133,18 @@ def create_identity_heatmap(comparison: ComparisonResult) -> Figure:
             "At least 2 unique sequences are required\nto render an identity heatmap.",
             ha="center",
             va="center",
-            fontsize=11,
+            fontsize=13,
         )
         ax.set_axis_off()
         return fig
 
     im = ax.imshow(matrix, vmin=0.0, vmax=100.0, cmap="viridis", aspect="auto")
     cbar = fig.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
-    cbar.set_label("Sequence Identity (%)")
+    cbar.set_label("Sequence Identity (%)", fontsize=13)
+    cbar.ax.tick_params(labelsize=12)
 
     short_labels = [lbl if len(lbl) <= 16 else f"{lbl[:14]}.." for lbl in labels]
-    tick_fontsize = 8 if n <= 20 else 6.5
+    tick_fontsize = 12.5 if n <= 20 else 10
     ax.set_xticks(range(n))
     ax.set_yticks(range(n))
     ax.set_xticklabels(short_labels, rotation=45, ha="right", fontsize=tick_fontsize)
@@ -152,7 +155,7 @@ def create_identity_heatmap(comparison: ComparisonResult) -> Figure:
             for j in range(n):
                 val = matrix[i][j]
                 text_color = "black" if val > 65 else "white"
-                ax.text(j, i, f"{val:.0f}", ha="center", va="center", color=text_color, fontsize=7.5)
+                ax.text(j, i, f"{val:.0f}", ha="center", va="center", color=text_color, fontsize=11)
 
     method_label = {
         "clustalo": "Clustal Omega MSA",
@@ -160,6 +163,6 @@ def create_identity_heatmap(comparison: ComparisonResult) -> Figure:
         "pairwise": "Biopython Pairwise Fallback",
     }.get(comparison.method_used, comparison.method_used)
 
-    ax.set_title(f"Pairwise Sequence Identity ({method_label})", fontsize=12, fontweight="bold")
+    ax.set_title(f"Pairwise Sequence Identity ({method_label})", fontsize=17, fontweight="bold")
     fig.tight_layout()
     return fig

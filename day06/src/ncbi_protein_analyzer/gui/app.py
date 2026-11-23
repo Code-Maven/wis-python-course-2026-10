@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import threading
 import tkinter as tk
+from tkinter import font as tkfont
 from tkinter import messagebox, ttk
 
 from ncbi_protein_analyzer.analysis import analyze_dataset, compare_records, detect_msa_tool
@@ -38,8 +39,7 @@ class NcbiProteinAnalyzerApp(tk.Tk):
         self._detected_msa = detect_msa_tool(config.analysis.msa)
 
         self.title("NCBI Protein Search & Analyzer")
-        self.geometry("1160x760")
-        self.minsize(920, 620)
+        self._ui_scale = self._configure_window_and_theme()
 
         self._term_var = tk.StringVar()
         self._organism_var = tk.StringVar()
@@ -51,6 +51,74 @@ class NcbiProteinAnalyzerApp(tk.Tk):
 
         self._build_ui()
 
+    def _configure_window_and_theme(self) -> float:
+        """Size window, fonts, and ttk styles cleanly for standard and HiDPI screens."""
+        screen_h = self.winfo_screenheight()
+        screen_w = self.winfo_screenwidth()
+
+        if screen_h >= 1800:
+            scale = 2.0
+            base_font_size = 20
+            mono_font_size = 18
+            win_w = min(2400, int(screen_w * 0.90))
+            win_h = min(1550, int(screen_h * 0.80))
+        elif screen_h >= 1200:
+            scale = 1.5
+            base_font_size = 16
+            mono_font_size = 15
+            win_w = min(1800, int(screen_w * 0.88))
+            win_h = min(1150, int(screen_h * 0.82))
+        else:
+            scale = 1.25
+            base_font_size = 14
+            mono_font_size = 13
+            win_w = min(1440, int(screen_w * 0.92))
+            win_h = min(900, int(screen_h * 0.86))
+
+        self.geometry(f"{win_w}x{win_h}")
+        self.minsize(int(960 * min(scale, 1.6)), int(640 * min(scale, 1.6)))
+
+        for name in (
+            "TkDefaultFont",
+            "TkTextFont",
+            "TkMenuFont",
+            "TkCaptionFont",
+            "TkSmallCaptionFont",
+            "TkIconFont",
+            "TkTooltipFont",
+        ):
+            try:
+                tkfont.nametofont(name).configure(size=base_font_size)
+            except tk.TclError:
+                pass
+
+        try:
+            tkfont.nametofont("TkHeadingFont").configure(size=base_font_size, weight="bold")
+        except tk.TclError:
+            pass
+        try:
+            tkfont.nametofont("TkFixedFont").configure(size=mono_font_size)
+        except tk.TclError:
+            pass
+
+        style = ttk.Style(self)
+        row_height = int(base_font_size * 2.5)
+        style.configure("TLabel", font="TkDefaultFont")
+        style.configure("TButton", font="TkDefaultFont", padding=(12, 8))
+        style.configure("TCheckbutton", font="TkDefaultFont")
+        style.configure("TRadiobutton", font="TkDefaultFont")
+        style.configure("TEntry", font="TkTextFont", padding=(8, 6))
+        style.configure("TCombobox", font="TkTextFont", padding=(8, 6))
+        style.configure("TSpinbox", font="TkTextFont", padding=(8, 6))
+        style.configure("TLabelframe.Label", font="TkHeadingFont")
+        style.configure("TNotebook.Tab", font="TkDefaultFont", padding=(16, 10))
+        style.configure("Treeview", font="TkDefaultFont", rowheight=row_height)
+        style.configure("Treeview.Heading", font="TkHeadingFont", padding=(10, 8))
+        self.option_add("*Font", tkfont.nametofont("TkDefaultFont"))
+        self.option_add("*TCombobox*Listbox.font", tkfont.nametofont("TkTextFont"))
+
+        return scale
+
     def _build_ui(self) -> None:
         # Top search bar
         search_frame = ttk.LabelFrame(self, text="NCBI Protein Search", padding=8)
@@ -60,22 +128,24 @@ class NcbiProteinAnalyzerApp(tk.Tk):
         row1.pack(fill="x")
 
         ttk.Label(row1, text="Query:").pack(side="left")
-        term_entry = ttk.Entry(row1, textvariable=self._term_var, width=34)
-        term_entry.pack(side="left", padx=(4, 12), fill="x", expand=True)
+        term_entry = ttk.Entry(row1, textvariable=self._term_var, width=28, font="TkTextFont")
+        term_entry.pack(side="left", padx=(6, 14), fill="x", expand=True)
         term_entry.bind("<Return>", lambda _e: self._start_search())
         term_entry.focus_set()
 
         ttk.Label(row1, text="Organism:").pack(side="left")
-        org_entry = ttk.Entry(row1, textvariable=self._organism_var, width=22)
-        org_entry.pack(side="left", padx=(4, 12))
+        org_entry = ttk.Entry(row1, textvariable=self._organism_var, width=18, font="TkTextFont")
+        org_entry.pack(side="left", padx=(6, 14))
         org_entry.bind("<Return>", lambda _e: self._start_search())
 
         ttk.Label(row1, text="Max results:").pack(side="left")
-        max_spin = ttk.Spinbox(row1, from_=1, to=500, textvariable=self._max_results_var, width=6)
-        max_spin.pack(side="left", padx=(4, 12))
+        max_spin = ttk.Spinbox(
+            row1, from_=1, to=500, textvariable=self._max_results_var, width=5, font="TkTextFont"
+        )
+        max_spin.pack(side="left", padx=(6, 14))
 
         self._search_btn = ttk.Button(row1, text="Search NCBI", command=self._start_search)
-        self._search_btn.pack(side="left", padx=(0, 4))
+        self._search_btn.pack(side="left", padx=(0, 6))
 
         self._cancel_btn = ttk.Button(
             row1, text="Cancel", command=self._cancel_task, state="disabled"
@@ -83,15 +153,19 @@ class NcbiProteinAnalyzerApp(tk.Tk):
         self._cancel_btn.pack(side="left")
 
         row2 = ttk.Frame(search_frame)
-        row2.pack(fill="x", pady=(6, 0))
+        row2.pack(fill="x", pady=(8, 0))
 
         ttk.Checkbutton(row2, text="RefSeq only", variable=self._refseq_var).pack(
-            side="left", padx=(0, 14)
+            side="left", padx=(0, 16)
         )
         ttk.Label(row2, text="Length filter (aa):").pack(side="left")
-        ttk.Entry(row2, textvariable=self._min_len_var, width=8).pack(side="left", padx=(4, 2))
-        ttk.Label(row2, text="to").pack(side="left", padx=2)
-        ttk.Entry(row2, textvariable=self._max_len_var, width=8).pack(side="left", padx=(2, 12))
+        ttk.Entry(row2, textvariable=self._min_len_var, width=7, font="TkTextFont").pack(
+            side="left", padx=(6, 4)
+        )
+        ttk.Label(row2, text="to").pack(side="left", padx=4)
+        ttk.Entry(row2, textvariable=self._max_len_var, width=7, font="TkTextFont").pack(
+            side="left", padx=(4, 14)
+        )
 
         config_info = f"Entrez email: {self.config_data.ncbi.email}"
         if self.config_data.ncbi.api_key:
@@ -103,9 +177,11 @@ class NcbiProteinAnalyzerApp(tk.Tk):
         self._notebook.pack(fill="both", expand=True, padx=8, pady=4)
 
         self._search_tab = SearchResultsTab(
-            self._notebook, on_analyze_selected=self._start_download_and_analyze
+            self._notebook,
+            on_analyze_selected=self._start_download_and_analyze,
+            ui_scale=self._ui_scale,
         )
-        self._stats_tab = StatsTab(self._notebook)
+        self._stats_tab = StatsTab(self._notebook, ui_scale=self._ui_scale)
         self._charts_tab = ChartsTab(self._notebook)
         self._compare_tab = CompareTab(
             self._notebook,
@@ -120,11 +196,13 @@ class NcbiProteinAnalyzerApp(tk.Tk):
         self._notebook.add(self._compare_tab, text="4. Sequence Comparison")
 
         # Bottom status & progress bar
-        status_frame = ttk.Frame(self, padding=(8, 4))
+        status_frame = ttk.Frame(self, padding=(10, 6))
         status_frame.pack(fill="x")
 
         ttk.Label(status_frame, textvariable=self._status_var).pack(side="left", fill="x", expand=True)
-        self._progress = ttk.Progressbar(status_frame, mode="determinate", length=220, maximum=100)
+        self._progress = ttk.Progressbar(
+            status_frame, mode="determinate", length=int(240 * self._ui_scale), maximum=100
+        )
         self._progress.pack(side="right")
 
     def _set_busy(self, busy: bool, status_msg: str | None = None) -> None:

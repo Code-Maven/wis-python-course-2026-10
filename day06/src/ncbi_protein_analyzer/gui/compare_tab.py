@@ -113,13 +113,14 @@ class CompareTab(ttk.Frame):
             textvariable=self._mode_var,
             state="readonly",
             width=12,
+            font="TkTextFont",
             values=["auto", "clustalo", "muscle", "pairwise"],
         )
         mode_combo.pack(side="right", padx=(4, 0))
         ttk.Label(top, text="Mode:").pack(side="right")
 
-        ttk.Label(self, textvariable=self._summary_var, font=("TkDefaultFont", 9, "bold")).pack(
-            fill="x", pady=(0, 4)
+        ttk.Label(self, textvariable=self._summary_var, font="TkHeadingFont").pack(
+            fill="x", pady=(0, 6)
         )
 
         # Monospace scrollable viewer
@@ -129,7 +130,7 @@ class CompareTab(ttk.Frame):
         self._text = tk.Text(
             text_frame,
             wrap="none",
-            font=("TkFixedFont", 9),
+            font="TkFixedFont",
             state="disabled",
             background="#f9fafb",
         )

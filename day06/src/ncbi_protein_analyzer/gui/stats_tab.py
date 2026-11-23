@@ -12,8 +12,9 @@ from ncbi_protein_analyzer.models import DatasetSummary, ProteinRecord, ProteinS
 class StatsTab(ttk.Frame):
     """Displays per-protein ProtParam statistics, summary KPIs, and export buttons."""
 
-    def __init__(self, parent: tk.Misc) -> None:
-        super().__init__(parent, padding=8)
+    def __init__(self, parent: tk.Misc, *, ui_scale: float = 1.0) -> None:
+        super().__init__(parent, padding=10)
+        self._ui_scale = ui_scale
         self._stats: list[ProteinStats] = []
         self._records: list[ProteinRecord] = []
         self._stats_by_iid: dict[str, ProteinStats] = {}
@@ -28,7 +29,7 @@ class StatsTab(ttk.Frame):
         top = ttk.Frame(self)
         top.pack(fill="x", pady=(0, 6))
 
-        ttk.Label(top, textvariable=self._kpi_var, font=("TkDefaultFont", 9, "bold")).pack(
+        ttk.Label(top, textvariable=self._kpi_var, font="TkHeadingFont").pack(
             side="left", fill="x", expand=True
         )
         self._export_csv_btn = ttk.Button(
@@ -72,7 +73,12 @@ class StatsTab(ttk.Frame):
         }
         for col, (label, width, anchor) in col_specs.items():
             self._tree.heading(col, text=label, command=lambda c=col: self._sort_by(c))
-            self._tree.column(col, width=width, anchor=anchor, stretch=(col == "description"))
+            self._tree.column(
+                col,
+                width=int(width * self._ui_scale),
+                anchor=anchor,
+                stretch=(col == "description"),
+            )
 
         yscroll = ttk.Scrollbar(tree_frame, orient="vertical", command=self._tree.yview)
         xscroll = ttk.Scrollbar(tree_frame, orient="horizontal", command=self._tree.xview)

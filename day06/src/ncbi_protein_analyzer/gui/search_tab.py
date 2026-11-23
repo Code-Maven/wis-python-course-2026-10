@@ -20,9 +20,11 @@ class SearchResultsTab(ttk.Frame):
         parent: tk.Misc,
         *,
         on_analyze_selected: Callable[[list[ProteinSummary]], None],
+        ui_scale: float = 1.0,
     ) -> None:
-        super().__init__(parent, padding=8)
+        super().__init__(parent, padding=10)
         self._on_analyze_selected = on_analyze_selected
+        self._ui_scale = ui_scale
         self._all_summaries: list[ProteinSummary] = []
         self._selected_uids: set[str] = set()
         self._visible_by_iid: dict[str, ProteinSummary] = {}
@@ -40,8 +42,8 @@ class SearchResultsTab(ttk.Frame):
         ctrl.pack(fill="x", pady=(0, 6))
 
         ttk.Label(ctrl, text="Filter table:").pack(side="left")
-        filter_entry = ttk.Entry(ctrl, textvariable=self._filter_var, width=28)
-        filter_entry.pack(side="left", padx=(4, 12))
+        filter_entry = ttk.Entry(ctrl, textvariable=self._filter_var, width=22, font="TkTextFont")
+        filter_entry.pack(side="left", padx=(6, 12))
 
         ttk.Button(ctrl, text="Select All Visible", command=self._select_all_visible).pack(
             side="left", padx=2
@@ -81,7 +83,12 @@ class SearchResultsTab(ttk.Frame):
         }
         for col, (label, width, anchor) in headings.items():
             self._tree.heading(col, text=label, command=lambda c=col: self._sort_by(c))
-            self._tree.column(col, width=width, anchor=anchor, stretch=(col == "title"))
+            self._tree.column(
+                col,
+                width=int(width * self._ui_scale),
+                anchor=anchor,
+                stretch=(col == "title"),
+            )
 
         yscroll = ttk.Scrollbar(tree_frame, orient="vertical", command=self._tree.yview)
         xscroll = ttk.Scrollbar(tree_frame, orient="horizontal", command=self._tree.xview)
