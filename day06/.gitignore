@@ -1,0 +1,19 @@
+# Virtual environments and build artifacts
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Local user configuration with real email / API key
+config.yaml
+
+# Exported outputs
+exports/
+*.png
+*.csv
+*.fasta
+*.fa
+*.aln

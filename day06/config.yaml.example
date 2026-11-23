@@ -1,0 +1,15 @@
+ncbi:
+  email: "your.email@example.com"        # Required by NCBI E-utilities
+  api_key: ""                            # Optional: raises rate limit from 3 to 10 req/sec
+  tool: "ncbi_protein_analyzer"
+  max_results_default: 50
+  fetch_batch_size: 50
+  timeout_seconds: 30
+
+analysis:
+  max_pairwise_sequences: 50             # Guardrail for O(N^2) pairwise fallback
+  msa:
+    preferred_tool: "auto"               # "auto" | "clustalo" | "muscle" | "pairwise"
+    clustalo_path: ""                    # Optional explicit path; auto-detected on PATH if blank
+    muscle_path: ""                      # Optional explicit path; auto-detected on PATH if blank
+    timeout_seconds: 120

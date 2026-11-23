@@ -1,0 +1,30 @@
+[project]
+name = "ncbi-protein-analyzer"
+version = "0.1.0"
+description = "Desktop GUI application to search NCBI Protein, download FASTA sequences, and analyze physicochemical properties and sequence similarity."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "biopython>=1.83",
+    "matplotlib>=3.8",
+    "pyyaml>=6.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+ncbi-protein-analyzer = "ncbi_protein_analyzer.__main__:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ncbi_protein_analyzer"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
