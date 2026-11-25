@@ -195,6 +195,8 @@ Dead-line: 2026.11.22 12:00
 * Rotem Azulay
 * Tali Lerner
 
+* We saw the use of https://render.com/
+
 ### Assignment (day 6)
 
 * Pick 2 (or more) students (preferably that you don't know).
