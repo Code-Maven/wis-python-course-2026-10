@@ -188,7 +188,7 @@ Dead-line: 2026.11.22 12:00
 
 ## Day 6
 
-* Using Antigravity to build a project.
+* Using Antigravity to build a project in the `day06` folder.
 
 * Daniel Geller
 * Keren Eden
@@ -196,6 +196,30 @@ Dead-line: 2026.11.22 12:00
 * Tali Lerner
 
 ### Assignment (day 6)
+
+* Pick 2 (or more) students (preferably that you don't know).
+  * Look at their assignment repository.
+  * Clone their repository to your computer and try to run their projects from day 5.
+  * Open an issue on the repository of their assignment with any issues you encounter. e.g. the tests are failing or you don't know how to run the application and you need clarification. There is a file that is unclear what it is doing there (e.g. `__pycache__`)
+  * If you don't find any problems, suggest a feature (see the next part of the assignment).
+  * When picking a student select one who does NOT yet have 2 issues. This way everyone will get at least 2 issues.
+  * You can use AI to review the code, but don't overwhelm the other person with long text from the AI.
+
+* Once you received such an issue, react to it.
+  * If needed, ask for clarification in the issue.
+  * You might have some back and forth between the two of you.
+  * When you feel you have fulfilled the request (or decided you don't want to do that) close the issue.
+
+* Copy your solution from day05 and extend it with some feature. It is up to you what kind of a feature you'd like to add, but make it interesting.
+  * If you used 3rd party libraries create a `requirements.txt` with their names or the `pyproject.toml` file
+
+* Create a folder called `day06`.
+* Add README.md with the usual explanations and your interaction with AI.
+
+* Open an issue on our repository with a title `day06 Your Name`. Include a link to your assignments repository and to the issues you opened.
+
+Dead-line: 2026.12.01 12:00
+
 
 ## Day 7
 
